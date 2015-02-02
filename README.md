@@ -1,5 +1,7 @@
 #Websockets Whiteboard
 
+[![Code Climate](https://codeclimate.com/github/nickbdyer/whiteboard-node/badges/gpa.svg)](https://codeclimate.com/github/nickbdyer/whiteboard-node)
+
 Week 8 at Makers Academy
 
 ###Technologies
